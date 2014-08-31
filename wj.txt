@@ -11,4 +11,6 @@ I nedd to change function 3.
 add a new requirement1.
 create a new branch develop.
 develop a new feature.
-
+add feature 2.
+add feature 3.
+add feature 4.
