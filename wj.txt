@@ -2,4 +2,6 @@ my first git
 my second git
 my fouth git
 my fiveth git
+my sixth git
+my seventh git
 my eighth git
