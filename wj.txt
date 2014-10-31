@@ -24,8 +24,14 @@ add feature 11.
 add feature 12.
 add feature 13.
 
+
 11111111111111111111
 add conflict
 
 remote add conflicts.
 22222222222222222222
+
+bbbbbbbbbbbbbbbbbbbbb
+add conflict
+remote add conflicts.
+ccccccccccccccccccccc
