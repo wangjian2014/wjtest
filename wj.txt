@@ -26,3 +26,5 @@ add feature 13.
 
 
 add conflict
+
+remote add conflicts.
